@@ -1,7 +1,3 @@
-#ThinkAndroid 交流平台
-* QQ群：169415162(交流群1) 
-* 网址：[http://www.thinkandroid.cn](http://www.thinkandroid.cn)
-
 ----
 
 #  ThinkAndroid简介 
@@ -611,9 +607,3 @@ downloadManager = DownloadManager.getDownloadManager();
             </intent-filter>
         </receiver>
 ```
-
-
-#关于作者(白猫)
-* ThinkAndroid交流网站：[http://www.thinkandroid.cn](http://www.thinkandroid.cn)
-* ThinkAndroid交流QQ群 ： 169415162(交流群1已满)
-* ThinkAndroid交流QQ群 ： 230206891(交流群2)

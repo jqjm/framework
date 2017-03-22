@@ -57,7 +57,6 @@ Android应用程序的开发，包含Android mvc、简易sqlite orm、ioc模块�
 Activity必须继承TAActivity
 ----
 ##ThinkAndroid使用方法：
-关于ThinkAndroid的更多介绍，请点击[这里](http://www.thinkandroid.cn/forum.php?mod=forumdisplay&fid=36)
 ##MVC模块
 * MVC模块：实现视图与模型的分离。
 
